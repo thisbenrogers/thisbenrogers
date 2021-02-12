@@ -1,6 +1,6 @@
 ### Hi! 🤠
 
-My name is Ben (he/him). I'm a Full-Stack Web Student at Lambda School, and am available for hire.
+My name is Ben (he/him). I'm a graduate from the Lambda School Full-Stack Web Dev program, and am available for hire.
 
 Currently I'm learning more about TypeScript, testing, and Python.
 
