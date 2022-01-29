@@ -1,4 +1,5 @@
-### Hi! 🤠
+### Hi 
+•͡˘㇁•͡˘
 
 My name is Ben (he/him). I'm a graduate from the Lambda School Full-Stack Web Dev program, and am available for hire.
 
