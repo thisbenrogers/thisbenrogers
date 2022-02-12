@@ -5,4 +5,4 @@ My name is Ben (he/him). I'm a graduate from the Lambda School Full-Stack Web De
 
 Currently I'm learning more about TypeScript, Python, and Solidity.
 
-React and Express, are tools I spend a lot of time with right now.
+React, NextJS, and Express are tools I spend a lot of time with right now.
