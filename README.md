@@ -1,8 +1,7 @@
 ### Hi 
-•͡˘㇁•͡˘
 
-My name is Ben (he/him). I'm a graduate from the Lambda School (Now Bloom Intisute of Technology) Full-Stack Web Dev program, and am available for hire.
+My name is Ben (he/him). I am available for hire.
 
-Currently I'm learning more about TypeScript, Python, and Solidity.
+Currently I'm working with TypeScript, building out robust backends and APIs in Express.
 
-React, NextJS, PostgreSQL, and Express are tools I spend a lot of time with right now.
+React, NextJS, and PostgreSQL are other tools I spend a lot of time with. I'm currently working on AWS cloud certification. 
